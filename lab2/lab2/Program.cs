@@ -68,7 +68,7 @@ namespace lab2
                 Console.WriteLine("y = 0");
             }
             // y= (x-3)/2
-            if (x > 3 && x < 9)
+            if (x > 3 && x <= 9)
             {
                 Console.WriteLine("y = " + ((x - 3) / 2));
             }

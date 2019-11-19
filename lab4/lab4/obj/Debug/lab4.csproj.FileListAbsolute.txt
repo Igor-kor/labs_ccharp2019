@@ -4,3 +4,6 @@ G:\Desktop\учеба\программирование\lab4\lab4\bin\Debug\lab4.
 G:\Desktop\учеба\программирование\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
 G:\Desktop\учеба\программирование\lab4\lab4\obj\Debug\lab4.exe
 G:\Desktop\учеба\программирование\lab4\lab4\obj\Debug\lab4.pdb
+G:\Desktop\учеба\программирование\лабы\lab4\lab4\bin\Debug\lab4.exe.config
+G:\Desktop\учеба\программирование\лабы\lab4\lab4\obj\Debug\lab4.exe
+G:\Desktop\учеба\программирование\лабы\lab4\lab4\obj\Debug\lab4.pdb

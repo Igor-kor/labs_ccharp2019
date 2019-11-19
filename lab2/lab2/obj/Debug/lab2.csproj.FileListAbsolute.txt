@@ -1,0 +1,7 @@
+G:\Desktop\учеба\программирование\lab2\lab2\bin\Debug\lab2.exe.config
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\bin\Debug\lab2.exe.config
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\bin\Debug\lab2.exe
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\bin\Debug\lab2.pdb
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\obj\Debug\lab2.exe
+G:\Desktop\учеба\программирование\лабы\lab2\lab2\obj\Debug\lab2.pdb

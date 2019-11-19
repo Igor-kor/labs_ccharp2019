@@ -33,7 +33,7 @@ namespace lab2_2
             // формула для линий 
             // y = sqrt((x)^2) при х > 0
             // y = -sqrt((x)^2) при х <0
-            if (Math.Abs(y) <= Math.Abs(Math.Sqrt(R * R - x * x)) && ((x > 0) && y >= Math.Sqrt(x * x) || (x < 0) && y <= -1 * Math.Sqrt(x * x)))
+            if (Math.Abs(y) <= Math.Abs(Math.Sqrt(R * R - x * x)) && ((x >= 0) && y >= Math.Sqrt(x * x) || (x < 0) && y <= -1 * Math.Sqrt(x * x)))
             {
                 Console.WriteLine("Точка в заштрихованной области");
             }else
